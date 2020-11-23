@@ -56,15 +56,15 @@
 
    - **ViiV Healthcare HCP & DTP** 웹사이트
    기술 스택: AEM, Sass, JavaScript + jQuery
-      -  [How It's Viewed](https://www.rukobiahcp.com)
-      -  [Rukobia HCP](https://howitsviewed.com)
+      -  [How It's Viewed](https://howitsviewed.com)
+      -  [Rukobia HCP](https://www.rukobiahcp.com)
       -  [Dovato HCP](https://www.dovatohcp.com)
       -  [Triumeq HCP](https://www.triumeqhcp.com)
       -  [Rukobia DTP](https://www.rukobia.com)
 
 ## Projects
 
-##### 사이드로 진행하였던 프로젝트들 입니다
+###### 사이드로 진행하였던 프로젝트들 입니다
 
 - #### [MyBook](https://my-book-fe5fe.web.app)
 
