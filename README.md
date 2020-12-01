@@ -76,7 +76,7 @@
 
    - React(CRA)를 사용하여 UI구현 및 Context API를 사용하여 전역적으로 유저 인증 값 관리
    - Redux를 사용하여 React 컴포넌트와 전역적인 유저 포스트 값 및 로직 연동
-   - redux-thunk 미들웨어로 Firebase Cloud Storage와 비동기적 연동하여 유저 포스트 조회, 작성, 수정 및 삭제와 같은 로직 처리
+   - Firebase Cloud Storage와 연동하여 유저 포스트 조회, 작성, 수정 및 삭제와 같은 로직을 redux-thunk를 사용하여 비동기 처리
    - Hosted on [Firebase](https://firebase.google.com/docs/hosting)
 
    <span style='display: flex; align-items: center; margin-bottom: 5px;'><img alt="github" src="https://user-images.githubusercontent.com/42850638/99925587-11a5a980-2d82-11eb-9dee-b719887aaca8.png" width="18" height="18"/>&nbsp;&nbsp; [github.com/holahoon/mybook](https://github.com/holahoon/mybook)</span>
