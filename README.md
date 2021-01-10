@@ -6,8 +6,8 @@
 
 > 처음 웹 개발을 접한 후 인생 제2막을 시작하여 점진적으로 성장해가는 1년차 **프론트엔드 개발자**입니다.
 > 리액트의 매력에 푹 빠져 리액트 라이브러리를 사용한 프론트엔드 개발에 가장 관심이 많고 익숙하지만 최근에는 리액트 네이티브 같은 라이브러리를 활용한 하이브리드 앱 개발 에도 큰 관심이 있습니다.
-> 
-> 새로운 도전을 해보고자 2020년 10월에 미국🇺🇸 에서 한국🇰🇷 으로 귀국하여 활동적으로 구직중입니다. 언제든지 연락주세요! 감사합니다.
+> 현재 새로운 도전을 해보고자 2020년 10월에 미국🇺🇸 에서 한국🇰🇷 으로 귀국하여 [인포렉스](http://www.inforex.co.kr/2016/main.html) 에서 프론트엔드 개발자로 활동 중 입니다. 
+<!-- > 새로운 도전을 해보고자 2020년 10월에 미국🇺🇸 에서 한국🇰🇷 으로 귀국하여 활동적으로 구직중입니다. 언제든지 연락주세요! 감사합니다. -->
 
 - <span style='display: flex; align-items: center; margin-bottom: 5px;'><img alt="gmail" src="https://user-images.githubusercontent.com/42850638/99925586-110d1300-2d82-11eb-8dcb-1d2cdf172b4c.png" width="22" height="22"/>&nbsp;&nbsp;&nbsp; hola.hoon@gmail.com</span>
 - <span style='display: flex; align-items: center; margin-bottom: 5px;'><img alt="github" src="https://user-images.githubusercontent.com/42850638/99925587-11a5a980-2d82-11eb-9dee-b719887aaca8.png" width="22" height="22"/>&nbsp;&nbsp;&nbsp; [github.com/holahoon](https://github.com/holahoon)</span>
@@ -40,9 +40,18 @@
 
 ## Experiences
 
+### [인포렉스](http://www.inforex.co.kr/2016/main.html)
+
+###### 📍 *Seoul, Republic of Korea*
+###### 🗓 2021.01 - current
+
+- #### 🧑🏻‍💻 Front-end developer
+
+   - TBD
+
 ### [Luckie & Co](https://www.luckie.com/)
 
-###### Digital marketing agency - 📍*Duluth, GA. USA*
+###### 📍*Duluth, GA. USA* - Digital marketing agency 
 
 ###### 🗓 2019.10 - 2020.08
 
