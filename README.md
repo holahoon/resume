@@ -2,25 +2,23 @@
 
 ### 김명훈 (David Kim)
 
-#### [holahoon.com](https://holahoon.com/)
+<!-- #### [holahoon.com](https://holahoon.com/) -->
 
 > 처음 웹 개발을 접한 후 인생 제2막을 시작하여 점진적으로 성장해가는 1년차 **프론트엔드 개발자**입니다.
-> 지금은 새로운 도전을 해보고자 한국에 귀국하여 신나게 프론트엔드 개발업을 하던 중 회사 사정으로 인하여 
+> 현재는 새로운 도전을 하고자 한국으로 귀국하여 활동적으로 구직 중입니다.
 
 - <span style='display: flex; align-items: center; margin-bottom: 5px;'><img alt="gmail" src="https://user-images.githubusercontent.com/42850638/99925586-110d1300-2d82-11eb-8dcb-1d2cdf172b4c.png" width="22" height="22"/>&nbsp;&nbsp;&nbsp; hola.hoon@gmail.com</span>
-- <span style='display: flex; align-items: center; margin-bottom: 5px;'><img alt="github" src="https://user-images.githubusercontent.com/42850638/99925587-11a5a980-2d82-11eb-9dee-b719887aaca8.png" width="22" height="22"/>&nbsp;&nbsp;&nbsp; [github.com/holahoon](https://github.com/holahoon)</span>
 - <span style='display: flex; align-items: center; margin-bottom: 5px;'><img alt="linkedin" src="https://user-images.githubusercontent.com/42850638/99925583-0fdbe600-2d82-11eb-8223-d0f24440c05d.png" width="22" height="22"/>&nbsp;&nbsp;&nbsp; [linkedin.com/in/holahoon](https://www.linkedin.com/in/holahoon/)</span>
 
 ---
 
 ## Stacks
 
-#### 프론트엔드
+#### 프론트 스택
 
 - HTML5
 - CSS3, Sass
-- JavaScript (ES6+)
-  - TypeScript, React.js, Redux.js, Chart.js
+- JavaScript (ES6+), TypeScript, React.js, Redux.js, Chart.js
 
 #### 그 외
 
@@ -30,8 +28,7 @@
 
 #### 관심
 
-- React native
-- Electron.js
+- React native, Electron.js
 - Back-end stacks (Node.js, etc)
 
 ## Experiences
@@ -42,7 +39,7 @@
 ###### 🗓 2021.01 - current
 
 - #### 🧑🏻‍💻 Front-end developer
-   - JavaScript로 짜여진 코드를 TypeScript로 변환 및 코드 간결화 리팩토링 작업 참여
+   - 기존 PC 와 모바일 코드베이스 통합화 및 코드 리팩토링 작업 참여
    - 
 
 - #### 참여 프로젝트
